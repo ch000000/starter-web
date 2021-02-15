@@ -2,6 +2,7 @@
 
 This is a simple website for showing how to use git and github together.
 adding line for rebasing
+then more changes
 ## Inroduction
 Inroduction text
 qqqqqqqqqqqqqqq
