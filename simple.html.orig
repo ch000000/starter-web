@@ -1,11 +1,6 @@
 <!DOCTYPE html>
-<<<<<<< HEAD
-<!-- Copyright 2014 Git.Training making conflict-->
-=======
-<!-- Copyright 2014 Git.Training 
-changed
--->
->>>>>>> realwork
+<!-- Copyright 2014 Git.Training making conflict
+more-->
 <head>
 	<title>A very respectful Website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -22,18 +17,17 @@ changed
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
+ 
 			Just some content making conflict
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Company 2014 making conflict</p>
+			and more conflict
+ 
 =======
-			I am not sure what the content is
+			Just some content making conflict and trouble
+>>>>>>> bigtrouble
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Git Training 2014 to conflict</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
