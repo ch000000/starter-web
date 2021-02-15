@@ -13,4 +13,5 @@ dsfffffffff
 
 ##How TO Contribute
 
+Please this repository and issue pull request 
 2014 Git Training
